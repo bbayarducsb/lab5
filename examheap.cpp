@@ -1,13 +1,13 @@
 // examheap.cpp
 // More complete tests of Heap functions for CS 24 lab
 
-#include "heap.h"
 #include <queue>
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
 #include <algorithm>
 #include <cassert>
+#include "heap.h"
 using namespace std;
 
 int main(int argc, char *argv[]) {
